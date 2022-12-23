@@ -1,0 +1,26 @@
+{
+  "name": "nodenext-resolution-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ottokruse/nodenext-resolution-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ottokruse/nodenext-resolution-issue/issues"
+  },
+  "homepage": "https://github.com/ottokruse/nodenext-resolution-issue#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "aws-jwt-verify": "^3.2.0"
+  }
+}
