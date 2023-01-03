@@ -22,3 +22,7 @@ Compile:
 ```shell
 npx tsc # Throws error
 ```
+
+### Workaround
+
+Edit `tsconfig.json` and change `moduleResolution` to `Node`.

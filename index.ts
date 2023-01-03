@@ -1,1 +1,3 @@
-import {} from "ottotest";
+import { JwtRsaVerifier } from "aws-jwt-verify";
+
+console.log(JwtRsaVerifier);
